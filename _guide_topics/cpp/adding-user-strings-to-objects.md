@@ -28,7 +28,7 @@ There are a number of advantages to User Strings:
 
 - The mechanism is very simple - you do not have to derive any new classes.
 - Rhino is responsible for all of the file IO.
-- User Strings can hold text of any length and format, including XML.
+- User Strings can hold text of any length and format, including XML. (length is currently limited to approximately 16MB)
 - Since the mechanism is standard, user strings can shared between Rhino and other plugins.  For example, you can use Rhino's *GetUserText* and *SetUserText* commands to get and set user strings.
 
 ## Example
