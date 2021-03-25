@@ -1,9 +1,9 @@
 # developer.rhino3d.com
 
-[![Build Status](https://travis-ci.org/mcneel/developer-rhino3d-com.svg?branch=master)](https://travis-ci.org/mcneel/developer-rhino3d-com)
+[![Build Status](https://travis-ci.com/mcneel/developer-rhino3d-com.svg?branch=master)](https://travis-ci.com/mcneel/developer-rhino3d-com)
 
 This repo contains the contents of https://developer.rhino3d.com.
-The site is built by [Travis CI](https://travis-ci.org/mcneel/developer-rhino3d-com) using [Jekyll](http://jekyllrb.com/) (a static site generator) and hosted on [GitHub Pages](https://pages.github.com/).
+The site is built by [Travis CI](https://travis-ci.com/mcneel/developer-rhino3d-com) using [Jekyll](http://jekyllrb.com/) (a static site generator) and hosted on [GitHub Pages](https://pages.github.com/).
 
 Pull requests are welcome! :tada: Please read our guide on [Contributing](https://github.com/mcneel/developer-rhino3d-com/blob/6/CONTRIBUTING.md). If you want to build the site yourself, to test your changes before opening a pull request, then please check out the [Getting Started](#getting-started) guide below.
 
@@ -21,7 +21,7 @@ If you are not comfortable using git on the command-line, then check out the [gi
 
 ### Branches
 
-:warning: _**DO NOT PUSH TO THE `gh-pages` BRANCH!** The site is branch-aware and automatically deployed by [Travis CI](https://travis-ci.org/mcneel/developer-rhino3d-com)._
+:warning: _**DO NOT PUSH TO THE `gh-pages` BRANCH!** The site is branch-aware and automatically deployed by [Travis CI](https://travis-ci.com/mcneel/developer-rhino3d-com)._
 
 The current (_stable_) version of Rhino is defined in the `stable:` field in the `_config.yml` file.  The `n` branch that corresponds to the stable release is built and deployed to http://developer.rhino3d.com.  
 
